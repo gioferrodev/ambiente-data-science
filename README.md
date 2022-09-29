@@ -1,5 +1,4 @@
-# aprendendo-data-science
- Ambiente inicial com bibliotecas para aprender data science.
+# Ambiente inicial com bibliotecas do python para aprender data science.
  
  Para usar siga os passos:
 
