@@ -1,5 +1,7 @@
 # aprendendo-data-science
- Ambiente inicial com bibliotecas para apreender data science.
+ Ambiente inicial com bibliotecas para aprender data science.
+ 
+ Para usar siga os passos:
 
 1. Crie o ambiente virtual com    ```python -m venv venv```.
 2. Dentro do diretório ```venv``` ative o ambiente virtual com   ```venv\Scripts\activate```.
